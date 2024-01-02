@@ -7,43 +7,30 @@
 1. Алгоритмы: теория и практика. Методы :white_check_mark: (20/20)
    
 :large_orange_diamond: [Небольшое число Фибоначчи](#1)
-
 :large_orange_diamond: [Последняя цифра большого числа Фибоначчи](#2)
-
 :large_orange_diamond: [Огромное число Фибоначчи по модулю](#3)
 
 :large_orange_diamond: [Наибольший общий делитель](#4)
-
 :large_orange_diamond: [Покрыть отрезки точками](#5)
-
 :large_orange_diamond: [Непрерывный рюкзак](#6)
 
 :large_orange_diamond: [Различные слагаемые](#7)
-
 :large_orange_diamond: [Кодирование Хаффмана](#8)
-
 :large_orange_diamond: [Декодирование Хаффмана](#9)
 
 :large_orange_diamond: [Очередь с приоритетами](#10)
-
 :large_orange_diamond: [Двоичный поиск](#11)
-
 :large_orange_diamond: [Число инверсий](#12)
 
 :large_orange_diamond: [Точки и отрезки](#13)
-
 :large_orange_diamond: [Сортировка подсчётом](#14)
-
 :large_orange_diamond: [Наибольшая последовательнократная подпоследовательность](#15)
 
 :large_orange_diamond: [Наибольшая невозрастающая подпоследовательность](#16)
-
 :large_orange_diamond: [Расстояние редактирования](#17)
-
 :large_orange_diamond: [Рюкзак](#18)
 
 :large_orange_diamond: [Лестница](#19)
-
 :large_orange_diamond: [Калькулятор](#20)
 
 
@@ -182,27 +169,27 @@
  + ### ***Задача 1.1. Расстановка скобок в коде.***  <a name="21"/>
    > ***Проверить, правильно ли расставлены скобки в данном коде.***
 
-      Решение: [placing_pare_theses_in_the_code.cpp](sssss)
+      Решение: [placing_pare_theses_in_the_code.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/1.%20Базовые%20структуры%20данных/placing_pare_theses_in_the_code.cpp)
 
  + ### ***Задача 1.2. Высота дерева.***  <a name="22"/>
    > ***Вычислить высоту данного дерева.***
 
-      Решение: [height_of_the_tree.cpp](sssss)
+      Решение: [height_of_the_tree.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/1.%20Базовые%20структуры%20данных/height_of_the_tree.cpp)
 
  + ### ***Задача 1.3. Симуляция обработки сетевых пакетов.***  <a name="23"/>
    > ***Реализовать обработчик сетевых пакетов.***
 
-      Решение: [simulation_of_network_packet_processing.cpp](sssss)
+      Решение: [simulation_of_network_packet_processing.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/1.%20Базовые%20структуры%20данных/simulation_of_network_packet_processing.cpp)
 
  + ### ***Задача 1.4. Стек с поддержкой максимума.***  <a name="24"/>
    > ***Реализовать стек с поддержкой операций push, pop и max.***
 
-      Решение: [stack_with_maximum_support.cpp](sssss)
+      Решение: [stack_with_maximum_support.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/1.%20Базовые%20структуры%20данных/stack_with_maximum_support.cpp)
 
  + ### ***Задача 1.5. Максимум в скользящем окне.***  <a name="25"/>
    > ***Найти максимум в каждом окне размера m данного массива чисел A[1 ... n].***
 
-      Решение: [maximum_in_the_sliding_window.cpp](sssss)
+      Решение: [maximum_in_the_sliding_window.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/1.%20Базовые%20структуры%20данных/maximum_in_the_sliding_window.cpp)
 
  **Раздел 2. Очереди с приоритетом и системы непересекающихся множеств.** 
  -----------------------------------
@@ -211,22 +198,22 @@
  + ### ***Задача 2.1. Построение кучи.***  <a name="26"/>
    > ***Переставить элементы заданного массива чисел так, чтобы он удовлетворял свойству мин-кучи.***
 
-      Решение: [creating_a_heap.cpp](sssss)
+      Решение: [creating_a_heap.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/2.%20Очереди%20с%20приоритетом%20и%20системы%20непересекающихся%20множеств/creating_a_heap.cpp)
    
  + ### ***Задача 2.2. Параллельная обработка.***  <a name="27"/>
    > ***По данным n процессорам и m задач определите, для каждой из задач, каким процессором она будет обработана.***
 
-      Решение: [parallel_processing.cpp](sssss)
+      Решение: [parallel_processing.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/2.%20Очереди%20с%20приоритетом%20и%20системы%20непересекающихся%20множеств/parallel_processing.cpp)
 
  + ### ***Задача 2.3. Объединение таблиц.***  <a name="28"/>
    > ***Ваша цель в данной задаче — реализовать симуляцию объединения таблиц в базе данных. В базе данных есть n таблиц, пронумерованных от 1 до n, над одним и тем же множеством столбцов (атрибутов). Каждая таблица содержит либо реальные записи в таблице, либо символьную ссылку на другую таблицу. Изначально все таблицы содержат реальные записи, и i-я таблица содержит ri записей. Ваша цель — обработать m запросов типа (destinationi, sourcei).***
 
-      Решение: [merging_tables.cpp](sssss)
+      Решение: [merging_tables.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/2.%20Очереди%20с%20приоритетом%20и%20системы%20непересекающихся%20множеств/merging_tables.cpp)
 
  + ### ***Задача 2.4. Автоматический анализ программ.***  <a name="29"/>
    > ***Проверить, можно ли присвоить переменным целые значения, чтобы выполнить заданные равенства вида xi = xj и неравенства вида xp != xq.***
 
-      Решение: [automatic_program_analysis.cpp](sssss)
+      Решение: [automatic_program_analysis.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/2.%20Очереди%20с%20приоритетом%20и%20системы%20непересекающихся%20множеств/automatic_program_analysis.cpp)
 
  **Раздел 3. Хеш-таблицы.** 
  -----------------------------------
@@ -235,17 +222,17 @@
  + ### ***Задача 3.1. Телефонная книга.***  <a name="30"/>
    > ***Реализовать структуру данных, эффективно обрабатывающую запросы вида add number name, del number и find number.***
 
-      Решение: [phone_book.cpp](sssss)
+      Решение: [phone_book.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/3.%20Хеш-таблицы/phone_book.cpp)
 
  + ### ***Задача 3.2. Хеширование цепочками.***  <a name="31"/>
    > ***Хеширование цепочками — один из наиболее популярных методов реализации хеш-таблиц на практике. Ваша цель в данной задаче — реализовать такую схему, используя таблицу с m ячейками и полиномиальной хеш-функцией на строках.***
 
-      Решение: [chain_hashing.cpp](sssss)
+      Решение: [chain_hashing.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/3.%20Хеш-таблицы/chain_hashing.cpp)
 
  + ### ***Задача 3.3. Поиск образца в тексте.***  <a name="32"/>
    > ***Найти все вхождения строки Pattern в строку Text.***
 
-      Решение: [search_for_a_sample_in_the_text.cpp](sssss)
+      Решение: [search_for_a_sample_in_the_text.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/3.%20Хеш-таблицы/search_for_a_sample_in_the_text.cpp)
 
  **Раздел 4. Деревья поиска.** 
  -----------------------------------
@@ -254,15 +241,15 @@
  + ### ***Задача 4.1. Обход дерева.***  <a name="33"/>
    > ***Построить in-order, pre-order и post-order обходы данного двоичного дерева.***
 
-      Решение: [bypass_of_binary_tree.cpp](sssss)
+      Решение: [bypass_of_binary_tree.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/4.%20Деревья%20поиска/bypass_of_binary_tree.cpp)
 
  + ### ***Задача 4.2. Проверка свойства дерева поиска.***  <a name="34"/>
    > ***Проверить, является ли данное двоичное дерево деревом поиска.***
 
-      Решение: [checking_the_properties_of_the_search_tree.cpp](sssss)
+      Решение: [checking_the_properties_of_the_search_tree.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/4.%20Деревья%20поиска/checking_the_properties_of_the_search_tree.cpp)
 
  + ### ***Задача 4.3. Проверка свойства дерева поиска.***  <a name="35"/>
    > ***Данная задача полностью аналогична предыдущей, но проверять теперь нужно более общее свойство. Дереву разрешается содержать равные ключи, но они всегда должны находиться в правом поддереве. Формально, двоичное дерево называется деревом поиска, если для любой вершины её ключ больше всех ключей из её левого поддерева и не меньше всех ключей из правого поддерева.***
 
-      Решение: [checking_a_more_general_property_of_the_search_tree.cpp](sssss)
+      Решение: [checking_a_more_general_property_of_the_search_tree.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Структуры%20данных/4.%20Деревья%20поиска/checking_a_more_general_property_of_the_search_tree.cpp)
  
