@@ -57,7 +57,7 @@
  + ### ***Задача 2.1. Небольшое число Фибоначчи***  <a name="1"/>
    > ***Дано целое число 1 ≤ n ≤ 40, необходимо вычислить n число Фибоначчи.***
 
-      Решение: [a_small_Fibonacci_number.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/2.%20Введение.%20Теория%20и%20задачи/a_small_Fibonacci_number.cpp)
+      Решение: [a_small_Fibonacci_number.cpp](https://github.com/ThyingEquation/cpp-algorithms-Stepik/blob/main/Алгоритмы%20теория%20и%20практика.%20Методы/2.%20Введение.%20Теория%20и%20задачи/a_small_Fibonacci_number.cpp)
 
 +  ### ***Задача 2.2. Последняя цифра большого числа Фибоначчи.*** <a name="2"/>
    > ***Дано число 1 ≤ n ≤ 10^7, необходимо найти последнюю цифру n-го числа Фибоначчи.***
